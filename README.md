@@ -10,7 +10,7 @@ Besides holiday information, we also aim to update it with useful information su
 
 ### GitHub Pages/API
 
-If you don't have much traffic on this dataset(and you consider this fair use), you can use GitHub Pages as an API: [https://pagarme.github.io/business-calendar/data/{country}/{year}.json](https://pagarme.github.io/business-calendar/data/{country}/{year}.json)
+If you don't have much traffic on this dataset(and you consider this fair use), you can use GitHub Pages as an API: [https://raw.githubusercontent.com/pagarme/business-calendar/master/src/{country}/{year}.json](https://pagarme.github.io/business-calendar/data/{country}/{year}.json)
 
 ### npm
 
