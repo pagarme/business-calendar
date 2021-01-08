@@ -1,13 +1,13 @@
 {
   "name": "business-calendar",
-  "version": "1.3.8",
+  "version": "1.4.0",
   "description": "Up-to-date business calendar",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-jsonlint": "^1.1.1",
-    "gulp-jsonminify": "^1.0.0"
+    "gulp": "3.9.0",
+    "gulp-jsonlint": "1.1.1",
+    "gulp-jsonminify": "1.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
