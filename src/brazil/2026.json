@@ -1,0 +1,86 @@
+{
+	"year": 2026,
+	"country": "brazil",
+	"timezone": "America/Sao_Paulo",
+	"calendar": [
+		{
+			"date": "2026-01-01",
+			"description": "Confraternização Universal",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-02-16",
+			"description": "Carnaval",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-02-17",
+			"description": "Carnaval",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-04-03",
+			"description": "Paixão de Cristo",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-04-21",
+			"description": "Tiradentes",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-05-01",
+			"description": "Dia do Trabalho",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-06-08",
+			"description": "Corpus Christi",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-09-07",
+			"description": "Independência do Brasil",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-10-12",
+			"description": "Nossa Sr.a Aparecida - Padroeira do Brasil",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-11-02",
+			"description": "Finados",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-11-15",
+			"description": "Proclamação da República",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-12-25",
+			"description": "Natal",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2026-12-31",
+			"description": "Fechamento de Balanço dos Bancos",
+			"holiday": true,
+			"limited_financial_operation": true
+		}
+	]
+}
+
