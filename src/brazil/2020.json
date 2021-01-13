@@ -22,6 +22,12 @@
 			"limited_financial_operation": true
 		},
 		{
+			"date": "2020-03-26",
+			"description": "quarta-feira de cinza",
+			"holiday": false,
+			"limited_financial_operation": true
+		},
+		{
 			"date": "2020-04-10",
 			"description": "Paixão de Cristo",
 			"holiday": true,
@@ -58,6 +64,12 @@
 			"limited_financial_operation": true
 		},
 		{
+			"date": "2020-10-28",
+			"description": "Dia do Servidor Público",
+			"holiday": false,
+			"limited_financial_operation": true
+		},
+		{
 			"date": "2020-11-02",
 			"description": "Finados",
 			"holiday": true,
@@ -67,6 +79,12 @@
 			"date": "2020-11-15",
 			"description": "Proclamação da República",
 			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
+			"date": "2020-12-24",
+			"description": "Véspera de Natal",
+			"holiday": false,
 			"limited_financial_operation": true
 		},
 		{

@@ -14,7 +14,7 @@ function getCalendar(country, year) {
 }
 
 function getPath(country) {
-    return path.join(getDataRoot(), 'data', country);
+    return path.join(getDataRoot(), country);
 }
 
 function getFile(path, year) {
