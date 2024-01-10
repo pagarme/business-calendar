@@ -70,6 +70,12 @@
 			"limited_financial_operation": true
 		},
 		{
+			"date": "2029-11-20",
+			"description": "Consciência Negra",
+			"holiday": true,
+			"limited_financial_operation": true
+		},
+		{
 			"date": "2029-12-25",
 			"description": "Natal",
 			"holiday": true,
@@ -83,4 +89,3 @@
 		}
 	]
 }
-
