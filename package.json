@@ -1,8 +1,11 @@
 {
   "name": "business-calendar",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "description": "Up-to-date business calendar",
   "main": "index.js",
+  "engines" : {
+    "node" : ">=8.0.0 <12.0.0"
+  },
   "dependencies": {},
   "devDependencies": {
     "gulp": "3.9.0",
