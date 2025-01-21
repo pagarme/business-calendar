@@ -80,12 +80,6 @@
 			"description": "Natal",
 			"holiday": true,
 			"limited_financial_operation": true
-		},
-		{
-			"date": "2026-12-31",
-			"description": "Fechamento de Balanço dos Bancos",
-			"holiday": true,
-			"limited_financial_operation": true
 		}
 	]
 }
