@@ -1,6 +1,6 @@
 {
   "name": "business-calendar",
-  "version": "1.5.1",
+  "version": "1.5.3",
   "description": "Up-to-date business calendar",
   "main": "index.js",
   "dependencies": {},
